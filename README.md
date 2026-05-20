@@ -1,10 +1,10 @@
-# Usman Yousaf | Sen AI En
+# Usman Yousaf | Sen AI Eng
 
 ## About Me
-- ?? Full-Stack AI Engineer & Developer
-- ?? Building ByteBoom AI & MDM Platform
-- ?? Working at Timexperts
-- ?? Freelancer @ Fiverr
+- Full-Stack AI Engineer and Developer
+- Building ByteBoom AI and MDM Platform
+- Working at Timexperts
+- Freelancer on Fiverr
 
 ## Tech Stack
 - **AI/ML:** LangChain, OpenAI, Groq, Ollama
