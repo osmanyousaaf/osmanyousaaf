@@ -9,15 +9,8 @@
   <a href="mailto:usmanyousafpersonal@gmail.com"><img src="https://img.shields.io/badge/-Email-E24B4A?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=osmanyousaaf&style=flat-square&color=6366f1&label=profile+views" alt="profile views"/>
 
 </div>
-
----
-
-### 🟢 Status
-
-> **Open to collaborations & freelance work** — AI/ML systems, full-stack products, cloud-native infra.
 
 ---
 
