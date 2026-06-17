@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A78BFA&height=200&section=header&text=Usman%20Yousaf&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Cloud-Native&descAlignY=60&descSize=18&animation=fadeIn)](https://github.com/osmanyousaaf)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A78BFA&height=200&section=header&text=Usman%20Yousaf&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer)](https://github.com/osmanyousaaf)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=700&pause=900&color=818CF8&center=true&multiline=false&width=600&height=45&lines=Building+AI+systems+that+think.;LLMs+%7C+RAG+%7C+Agents+%7C+Cloud-Native+Infra;If+I+do+it+twice%2C+I+automate+it.)](https://github.com/osmanyousaaf)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=700&pause=900&color=818CF8&center=true&multiline=false&width=600&height=45&lines=Building+AI+systems+that+think.)](https://github.com/osmanyousaaf)
 
 <br/>
 
