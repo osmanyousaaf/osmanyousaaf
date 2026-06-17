@@ -7,10 +7,10 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-osmanyousaaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmanyousaaf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-osmanyousaaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanyousaaf)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-osmanyousaaf-F5A623?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/osmanyousaaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-osmanyousaaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanyousaaf)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-osmanyousaaf-F5A623?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/usmanyousaaf)
 [![Email](https://img.shields.io/badge/Email-Contact-E24B4A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanyousafpersonal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-osmanyousaaf.site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://osmanyousaaf.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-osmanyousaaf.site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://usmanyousaaf.site)
 
 </div>
 
