@@ -254,28 +254,6 @@ Embedded AI engineering delivery for Averroes Management Consultancy — buildin
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmanyousaaf&theme=aura)](https://github.com/osmanyousaaf)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmanyousaaf&theme=aura" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osmanyousaaf&theme=aura" width="49%"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=osmanyousaaf&theme=tokyonight-duo&hide_border=true&ring=6366F1&fire=8B5CF6&currStreakLabel=A78BFA)](https://github.com/osmanyousaaf)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanyousaaf&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=A78BFA&bg_color=0d1117)](https://github.com/osmanyousaaf)
-
-</div>
-
----
 
 ## ◈ Contribution Activity
 
