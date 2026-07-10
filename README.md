@@ -236,16 +236,6 @@ Delivering end-to-end AI engineering across RAG systems, automation pipelines, m
 
 ---
 
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osmanyousaaf&theme=tokyo-night&hide_border=true&line=6366F1&point=8B5CF6&area=true&area_color=6366F120)](https://github.com/osmanyousaaf)
-
-</div>
-
----
-
 ## ◈ Contribution Snake
 
 <div align="center">
