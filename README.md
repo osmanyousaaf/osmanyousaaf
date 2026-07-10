@@ -31,29 +31,6 @@ I'm a Full-Stack AI Engineer and consultant operating across freelance engagemen
 
 ---
 
-## ◈ Current Focus
-
-```yaml
-learning:
-  - Advanced multi-agent orchestration with LangGraph
-  - Fine-tuning & PEFT techniques (LoRA, QLoRA)
-  - Distributed systems design at scale
-building:
-  - Cloud-native MDM platform for Oil & Gas data intelligence
-  - Production-grade web crawlers with Playwright + rate limiting
-  - n8n workflow automation pipelines & AI content agents
-exploring:
-  - On-chain intelligence & whale signal detection
-  - Reinforcement learning for trading systems
-  - Vector DB optimization for large-scale RAG
-open_to:
-  - AI Engineering consulting
-  - Full-stack product contracts
-  - LLM/Agent system architecture
-  - Freelance automation projects
-```
-
----
 
 ## ◈ Tech Stack
 
