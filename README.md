@@ -21,11 +21,11 @@ I build at the intersection of **AI and software engineering** — not just to s
 
 I'm a Full-Stack AI Engineer and consultant operating across freelance engagements and enterprise delivery, currently working on a cloud-native **Master Data Management platform** described as *"Bloomberg for industrial product data"* — starting with Oil & Gas.
 
-- 🧠 Deep focus on **LLMs, RAG pipelines, AI Agents**, and autonomous reasoning systems
-- ☁️ Designing **cloud-native, containerized** architectures on AWS with Terraform & Kubernetes
-- 🔩 Building production web crawlers, data ingestion platforms, and HITL workflows
-- ⚡ *If I do something more than twice, I automate it*
-- 🤝 Open to hard AI engineering problems, consulting engagements, and meaningful collaborations
+-  Deep focus on **LLMs, RAG pipelines, AI Agents**, and autonomous reasoning systems
+-  Designing **cloud-native, containerized** architectures on AWS with Terraform & Kubernetes
+-  Building production web crawlers, data ingestion platforms, and HITL workflows
+-  *If I do something more than twice, I automate it*
+-  Open to hard AI engineering problems, consulting engagements, and meaningful collaborations
 
 **Open To:** AI consulting · Full-stack contracts · RAG/Agent system architecture · Freelance automation
 
