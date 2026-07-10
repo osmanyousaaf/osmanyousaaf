@@ -218,7 +218,6 @@ Includes a Content Quality AI Agent for automated content validation, scoring, a
 ## ◈ Experience
 
 ### Full-Stack AI Engineer & Consultant · Freelance / Self-Employed
-`2022 — Present` · Remote
 
 Delivering end-to-end AI engineering across RAG systems, automation pipelines, multi-agent architectures, and full-stack products for clients across fintech, industrial data, real estate, and automotive.
 
@@ -236,24 +235,6 @@ Delivering end-to-end AI engineering across RAG systems, automation pipelines, m
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-
-### AI Engineer · Timexperts (Delivery)
-`2024 — Present` · Remote
-
-Embedded AI engineering delivery for Averroes Management Consultancy — building a cloud-native B2B Master Data Management platform targeting Oil & Gas industrial product intelligence.
-
-- Executing M2 milestones: data ingestion platform, multi-domain web crawler architecture
-- Implementing canonical data models, AI extraction pipelines, and HITL validation workflows
-- Coordinating with Executive Sponsor, Program Manager, and AI Engineering Lead stakeholders
-- Setting up and managing project Jira board (full backlog import, sprint planning, task tracking)
-- Reviewing and closing M1 deliverables: Terraform IaC, taxonomy crosswalk, architecture blueprints
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 
 ## ◈ Contribution Activity
 
