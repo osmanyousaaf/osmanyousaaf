@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="30" viewBox="0 0 89 30" fill="none" role="img" aria-label="Website">
+  <rect x="0.6" y="0.6" width="87.8" height="28.8" rx="6" fill="#0d1117" stroke="#e6edf3" stroke-opacity="0.35"/>
+  <g transform="translate(9 8.6) scale(0.8)" fill="none">
+    <circle cx="8" cy="8" r="7.2" stroke="#e6edf3" stroke-width="1.8"/>
+    <ellipse cx="8" cy="8" rx="3.1" ry="7.2" stroke="#e6edf3" stroke-width="1.6"/>
+    <line x1="0.9" y1="8" x2="15.1" y2="8" stroke="#e6edf3" stroke-width="1.6"/>
+  </g>
+  <text x="29" y="18.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" font-weight="600" letter-spacing="1" fill="#e6edf3">WEBSITE</text>
+</svg>

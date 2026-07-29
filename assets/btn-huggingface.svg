@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="30" viewBox="0 0 124 30" fill="none" role="img" aria-label="Hugging Face">
+  <rect x="0.6" y="0.6" width="122.8" height="28.8" rx="6" fill="#0d1117" stroke="#ffd21e" stroke-opacity="0.45"/>
+  <g transform="translate(9 8.6) scale(0.8)" fill="none">
+    <circle cx="8" cy="8" r="7.2" stroke="#ffd21e" stroke-width="1.8"/>
+    <circle cx="5.5" cy="6.4" r="1.15" fill="#ffd21e"/>
+    <circle cx="10.5" cy="6.4" r="1.15" fill="#ffd21e"/>
+    <path d="M4.6 9.6a3.9 3.9 0 0 0 6.8 0" stroke="#ffd21e" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <text x="29" y="18.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" font-weight="600" letter-spacing="1" fill="#e6edf3">HUGGING FACE</text>
+</svg>
