@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,50:A78BFA,100:C4B5FD&amp;height=70&amp;section=header" width="100%" alt="" />
-</p>
-
-
-<p align="center">
   <a href="https://usmanyousaaf.site">
     <img src="./github_banner_v6.gif" width="100%" alt="Usman Yousaf — Full-Stack AI Engineer" />
   </a>
