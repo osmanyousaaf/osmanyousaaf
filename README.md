@@ -41,6 +41,7 @@ I'm a Full-Stack AI Engineer and consultant operating across freelance engagemen
   <sub>LangChain · LangGraph · Hugging Face · OpenAI · Anthropic · pgvector · Pinecone · FAISS · Playwright · Terraform · GitHub Actions</sub>
 </p>
 
+
 <br/>
 
 <p align="center">
