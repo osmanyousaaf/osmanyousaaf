@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://usmanyousaaf.site"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-website-dark.svg" /><img src="./assets/btn-website-light.svg" width="22%" alt="Website" /></picture></a>
-  <a href="https://www.linkedin.com/in/usmanyousaaf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" width="22%" alt="LinkedIn" /></picture></a>
-  <a href="https://huggingface.co/usmanyousaaf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-huggingface-dark.svg" /><img src="./assets/btn-huggingface-light.svg" width="22%" alt="Hugging Face" /></picture></a>
-  <a href="mailto:usmanyousafpersonal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" width="22%" alt="Email" /></picture></a>
+  <a href="https://usmanyousaaf.site"><img src="./assets/btn-website.svg" width="20%" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/usmanyousaaf"><img src="./assets/btn-linkedin.svg" width="20%" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/usmanyousaaf"><img src="./assets/btn-huggingface.svg" width="20%" alt="Hugging Face" /></a>
+  <a href="mailto:usmanyousafpersonal@gmail.com"><img src="./assets/btn-email.svg" width="20%" alt="Email" /></a>
 </p>
 
 <br/>
