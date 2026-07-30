@@ -31,16 +31,12 @@ I'm a Full-Stack AI Engineer and consultant operating across freelance engagemen
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,cpp,pytorch,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,graphql,aws,docker,kubernetes,terraform&amp;theme=dark&amp;perline=18" />
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,pytorch,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,graphql,aws,docker,kubernetes,terraform&amp;theme=light&amp;perline=18" width="86%" alt="Tech stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,pytorch,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,graphql,aws,docker,kubernetes,terraform&amp;theme=dark&amp;perline=18" width="86%" alt="Tech stack" />
 </p>
 
 <p align="center">
   <sub>LangChain · LangGraph · Hugging Face · OpenAI · Anthropic · pgvector · Pinecone · FAISS · Playwright · Terraform · GitHub Actions</sub>
 </p>
-
 
 <br/>
 
