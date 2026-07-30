@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://usmanyousaaf.site"><img src="./assets/btn-website.svg" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/usmanyousaaf"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/usmanyousaaf"><img src="./assets/btn-huggingface.svg" alt="Hugging Face" /></a>
-  <a href="mailto:usmanyousafpersonal@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
+  <a href="https://usmanyousaaf.site"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-website-dark.svg" /><img src="./assets/btn-website-light.svg" width="22%" alt="Website" /></picture></a>
+  <a href="https://www.linkedin.com/in/usmanyousaaf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" width="22%" alt="LinkedIn" /></picture></a>
+  <a href="https://huggingface.co/usmanyousaaf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-huggingface-dark.svg" /><img src="./assets/btn-huggingface-light.svg" width="22%" alt="Hugging Face" /></picture></a>
+  <a href="mailto:usmanyousafpersonal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" width="22%" alt="Email" /></picture></a>
 </p>
 
 <br/>
@@ -31,7 +31,10 @@ I'm a Full-Stack AI Engineer and consultant operating across freelance engagemen
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,pytorch,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,graphql,aws,docker,kubernetes,terraform&amp;theme=dark&amp;perline=18" width="86%" alt="Tech stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,cpp,pytorch,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,graphql,aws,docker,kubernetes,terraform&amp;theme=dark&amp;perline=18" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,pytorch,fastapi,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,graphql,aws,docker,kubernetes,terraform&amp;theme=light&amp;perline=18" width="86%" alt="Tech stack" />
+  </picture>
 </p>
 
 <p align="center">
@@ -41,7 +44,10 @@ I'm a Full-Stack AI Engineer and consultant operating across freelance engagemen
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osmanyousaaf/osmanyousaaf/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmanyousaaf/osmanyousaaf/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/osmanyousaaf/osmanyousaaf/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+  </picture>
 </p>
 
 <p align="center">
