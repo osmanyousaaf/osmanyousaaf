@@ -11,7 +11,6 @@
   <a href="mailto:usmanyousafpersonal@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
 </p>
 
-<br/>
 
 ## About Me
 
