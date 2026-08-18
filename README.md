@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://usmanyousaaf.site">
-    <img src="./github_banner_v6.gif" width="100%" alt="Usman Yousaf — Full-Stack AI Engineer" />
+    <img src="./github_banner_v8.svg" width="100%" alt="Usman Yousaf — Full-Stack AI Engineer" />
   </a>
 </p>
 
