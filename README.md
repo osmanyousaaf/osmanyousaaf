@@ -14,8 +14,6 @@ I'm a Full-Stack AI Engineer and consultant operating across freelance engagemen
 **Open To:** AI consulting · Full-stack contracts · Agentic system architecture · Freelance automation
 <br/>
 <br/>
-<br/>
-<br/>
 
 <p align="center">
   <a href="https://usmanyousaaf.site"><img src="./assets/btn-website.svg" alt="Website" /></a>
